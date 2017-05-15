@@ -1,0 +1,7 @@
+Aplikacja ma za zadanie zbierać dane dla firmy
+zajmującej sie sprzedażą drewna opałowego.
+Aplikacja będzie gromadzić dane dotyczące kupna drewna przez firme, jego przetworzenia
+transportu i sprzedaży.
+Każdy z procesów produkcji będzie zawierał np koszt, czas pracy pracownika. 
+Technologie na pewno: WPF
+Technologie jak starczy czasu: ASP.Net,Azure
